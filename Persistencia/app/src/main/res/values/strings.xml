@@ -1,0 +1,7 @@
+<resources>>
+    <string name="app_name">bd</string>
+    <string name="botonRegistro">Registrar usuario</string>
+    <string name="botonGuardar">Guardar</string>
+    <string name="botonMostrar">Mostrar</string>
+    <string name="botonLogin">Login</string>
+</resources>

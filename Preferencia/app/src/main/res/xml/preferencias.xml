@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <PreferenceCategory android:title="Selecciona tu edad">
+
+            <ListPreference
+                android:key="edad"
+                android:title="Edad"
+                android:dialogTitle="Selecciona tu edad"
+                android:entries="@array/opciones_edad"
+                android:entryValues="@array/opciones_edad"
+                android:defaultValue="Mayor de edad" />
+
+        </PreferenceCategory>
+</PreferenceScreen>
