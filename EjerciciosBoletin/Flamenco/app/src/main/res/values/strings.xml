@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flamenco</string>
+    <string name="sevillanas">Sevillanas</string>
+    <string name="bulerias">Bulerías</string>
+    <string name="fandangos">Fandangos</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="volver">Volver</string>
+</resources>

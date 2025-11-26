@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Centro Relajacion</string>
+
+    <string name="modo_sonido">Modo Sonido</string>
+    <string name="modo_v_deo">Modo Vídeo</string>
+
+    <string name="reproducir">Reproducir</string>
+    <string name="pausar">Pausar</string>
+    <string name="detener">Detener</string>
+
+</resources>

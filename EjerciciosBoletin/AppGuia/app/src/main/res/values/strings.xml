@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppGuia</string>
+    <string name="sevilla">Sevilla</string>
+    <string name="granada">Granada</string>
+    <string name="cordoba">Córdoba</string>
+    <string name="inicio">Volver al Inicio</string>
+
+    <string name="sevilla_descr">Sevilla es famosa por la Giralda, el Real Alcázar y el flamenco.</string>
+    <string name="granada_descr">Granada alberga la Alhambra, una joya de la arquitectura nazarí y símbolo de la ciudad.</string>
+    <string name="cordoba_descr">Córdoba es conocida por la Mezquita-Catedral, un impresionante monumento de valor histórico y artístico.</string>
+</resources>

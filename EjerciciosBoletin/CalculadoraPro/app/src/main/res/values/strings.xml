@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculadoraPro</string>
+    <string name="num1">Introduce el primer número</string>
+    <string name="num2">Introduce el segundo número</string>
+
+    <string name="guardar_resultado">Guardar resultado</string>
+    <string name="mostrar_timo_resultado">Mostrar último resultado</string>
+    <string name="noNumeros">Debes introducir ambos números para realizar la operación.</string>
+    <string name="numNoValido">El valor introducido no es un número válido.</string>
+    <string name="noDividirEntre0">Error: No se puede dividir entre cero.</string>
+    <string name="resultadoGuardado">Resultado guardado con éxito.</string>
+    <string name="noResultados">Aún no has guardado ningún resultado.</string>
+    <string name="mostrarResultadoGuardado">Último resultado guardado:</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="convertir">Convertir</string>
+    <string name="noCantidad">Por favor, introduce una cantidad válida.</string>
+</resources>
