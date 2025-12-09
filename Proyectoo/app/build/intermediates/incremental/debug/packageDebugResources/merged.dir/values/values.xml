@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ProyectoO</string>
+    <string name="button_check">Comprobar</string>
+    <string name="button_start">Empezar</string>
+    <string name="correct_answer">REAL MADRID</string>
+    <string name="default_username">Jugador</string>
+    <string name="error_sound">Error: Archivo de sonido \'acierto\' no encontrado.</string>
+    <string name="hint_guess">Introduce tu respuesta</string>
+    <string name="hint_name">Tu nombre</string>
+    <string name="instruction_text">Introduce tu nombre para empezar el quiz:</string>
+    <string name="result_correct">¡✅ Correcto! ¡Felicidades, %s!</string>
+    <string name="result_incorrect">❌ Incorrecto. Vuelve a intentarlo.</string>
+    <string name="toast_win">¡Ganaste!</string>
+    <string name="welcome_question">¡Hola, %s! ¿Qué equipo es este?</string>
+    <style name="Base.Theme.Proyectoo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Proyectoo" parent="Base.Theme.Proyectoo"/>
+</resources>

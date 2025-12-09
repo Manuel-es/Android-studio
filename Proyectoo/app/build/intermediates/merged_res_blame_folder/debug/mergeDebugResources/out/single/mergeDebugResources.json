@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\layout_activity_guess_logo.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\layout\\activity_guess_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\drawable_barcelona.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\drawable\\barcelona.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\drawable_juventus.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\drawable\\juventus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\drawable_liverpool.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\drawable\\liverpool.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\raw_sonido.mp3.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\raw\\sonido.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\drawable_bayern.jpeg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\drawable\\bayern.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\drawable_madrid.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\drawable\\madrid.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.proyectoo.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.proyectoo.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-debug-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.example.proyectoo.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

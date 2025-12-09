@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoO</string>
+    <string name="button_check">Check</string>
+    <string name="button_start">Start</string>
+    <string name="correct_answer">REAL MADRID</string>
+    <string name="default_username">Player</string>
+    <string name="error_sound">Error: Sound file \'acierto\' not found.</string>
+    <string name="hint_guess">Enter your guess</string>
+    <string name="hint_name">Your Name</string>
+    <string name="instruction_text">Enter your name to start the quiz:</string>
+    <string name="result_correct">✅ Correct! Congratulations, %s!</string>
+    <string name="result_incorrect">❌ Incorrect. Try again.</string>
+    <string name="toast_win">You won!</string>
+    <string name="welcome_question">Hello, %s! Which team is this?</string>
+</resources>

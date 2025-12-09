@@ -1,0 +1,7 @@
+com.example.proyectoo.test.app-core-1.7.0-0 C:\Users\Usuario\.gradle\caches\8.13\transforms\dce9369fcb5ed1ed0cd30fa8c7ecdaa9\transformed\core-1.7.0\res
+com.example.proyectoo.test.app-tracing-1.2.0-1 C:\Users\Usuario\.gradle\caches\8.13\transforms\f05779726ef40515fbbf32685d3bb7ea\transformed\tracing-1.2.0\res
+com.example.proyectoo.test.app-androidTest-2 C:\Users\Usuario\AndroidStudioProjects\Proyectoo\app\build\generated\res\resValues\androidTest\debug
+com.example.proyectoo.test.app-updated_navigation_xml-3 C:\Users\Usuario\AndroidStudioProjects\Proyectoo\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.proyectoo.test.app-mergeDebugAndroidTestResources-4 C:\Users\Usuario\AndroidStudioProjects\Proyectoo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.proyectoo.test.app-mergeDebugAndroidTestResources-5 C:\Users\Usuario\AndroidStudioProjects\Proyectoo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.proyectoo.test.app-debugAndroidTest-6 C:\Users\Usuario\AndroidStudioProjects\Proyectoo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

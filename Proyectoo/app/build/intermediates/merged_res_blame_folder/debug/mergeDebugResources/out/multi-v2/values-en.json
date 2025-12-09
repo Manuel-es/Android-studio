@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.proyectoo.app-mergeDebugResources-34:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Proyectoo\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,11,6,13,8,18,10,5,4,15,16,17,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,474,237,524,287,776,417,188,107,582,658,728,340",
+                        "endColumns": "46,46,46,54,51,80,55,47,79,74,68,46,75",
+                        "endOffsets": "99,516,279,574,334,852,468,231,182,652,722,770,411"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,149,196,251,303,384,440,488,568,643,712,759",
+                        "endColumns": "46,46,46,54,51,80,55,47,79,74,68,46,75",
+                        "endOffsets": "97,144,191,246,298,379,435,483,563,638,707,754,830"
+                    }
+                }
+            ]
+        }
+    ]
+}
